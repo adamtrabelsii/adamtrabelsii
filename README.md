@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/adamtrabelsii" width="120" style="border-radius:50%" alt="Adam Trabelsi" />
 
-<!-- If the above doesn't load, replace with a direct image URL like:
-<img src="https://your-image-url.com/photo.jpg" width="120" style="border-radius:50%" />
-Or use an animated GIF:
-<img src="https://your-gif-url.com/avatar.gif" width="120" />
--->
+
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtzeXpva29pNDRnbGd0YXdvMno5ZTE5Y3NpMWl5bGQ5Znh5a2VqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fu3OjBQiCs3s0ZuLY3/giphy.gif" width="120" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=120&section=header&text=Adam%20Trabelsi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
 
